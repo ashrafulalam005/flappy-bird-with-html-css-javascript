@@ -31,9 +31,10 @@ Hey there! I'm Ashraful Alam from Bangladesh, a passionate software developer. T
 - CSS3
 - JavaScript
 
-## Screenshots
+# Screenshots
 
-## Before Starting
-will be uploaded
-## Game Over
-will be uploaded
+### Before Starting
+![Before Starting](before_starting.png)
+
+### Game Over
+![Game Over](game_over.png)
