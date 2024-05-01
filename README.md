@@ -46,7 +46,7 @@ Hey there! I'm Ashraful Alam from Bangladesh, a passionate software developer. T
 </head>
 <body>
     <div style="text-align: center;">
-        <img src="https://github.com/ashrafulalam005/flappy-bird-with-html-css-javascript/blob/main/flappybird%20gameplay.gif" alt="My GIF" width="300" height="500">
+        <img src="https://github.com/ashrafulalam005/flappy-bird-with-html-css-javascript/blob/main/flappybird%20gameplay.gif" alt="My GIF" width="320" height="500">
     </div>
 </body>
 </html>
