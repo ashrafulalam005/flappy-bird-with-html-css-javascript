@@ -33,12 +33,32 @@ Hey there! I'm Ashraful Alam from Bangladesh, a passionate software developer. T
 
 # Screenshots
 
-### Before Starting
+## Before Starting
 ![Before Starting](before_starting.png)
+
+## GIF Demo Of Playing The Game
+<br> 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+</head>
+<body>
+    <div style="text-align: center;">
+        <img src="https://github.com/ashrafulalam005/flappy-bird-with-html-css-javascript/blob/main/flappybird%20gameplay.gif" alt="My GIF" width="300" height="500">
+    </div>
+</body>
+</html>
+
+<br> 
 
 ## Video Demo
 
-You can watch a video demonstration of the game [here](https://www.youtube.com/watch?v=your_video_id).
+**Github doesn't directly support embedding videos into README files. As a result, I've uploaded a video showcasing my project to YouTube for your convenience.
+You can watch the video demonstration of the game** [here](https://www.youtube.com/watch?v=your_video_id).
 
-### Game Over
+<br> 
+
+## Game Over
 ![Game Over](game_over.png)
