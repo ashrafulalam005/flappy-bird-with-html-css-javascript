@@ -28,7 +28,8 @@ Hey there! I'm Ashraful Alam from Bangladesh, a passionate software developer. T
 3. Navigate the bird through the gaps between the green pipes.
 4. Avoid collisions with the pipes or the ground.
 5. Keep track of your score as you pass through each set of pipes.
-6. Continue playing until the bird collides, then the game is over.
+6. Continue playing until the bird collides.
+7. When the bird collides the pipe or ground , then the game is over.
 
 ## Technologies Used
 - HTML5
