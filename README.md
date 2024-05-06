@@ -1,5 +1,7 @@
 # Flappy Bird Game With HTML, CSS AND JAVASCRIPT
 
+<br> 
+
 ## Overview
 Hey there! I'm Ashraful Alam from Bangladesh, a passionate software developer. This is a simple Flappy Bird game implemented using HTML, CSS, and JavaScript. Flappy Bird is a side-scrolling game where the player controls a bird, attempting to fly between columns of green pipes without hitting them. If it hits the pipe or ground then its game over.
 
