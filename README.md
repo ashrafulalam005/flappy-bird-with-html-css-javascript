@@ -13,6 +13,8 @@ Hey there! I'm Ashraful Alam from Bangladesh, a passionate software developer. T
 - International Islamic University Chittagong (IIUC)
 
 ## Features
+<br> 
+
 - Classic Flappy Bird gameplay.
 - Responsive design for desktop and mobile devices.
 - Simple and intuitive user interface.
