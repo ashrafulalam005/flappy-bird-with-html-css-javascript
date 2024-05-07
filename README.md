@@ -30,6 +30,8 @@ Hey there! I'm Ashraful Alam from Bangladesh, a passionate software developer. T
 - Colorful visual elements.
 
 ## How to Play
+<br> 
+
 1. Open the `index.html` file in your web browser.
 2. Control the bird with mousepad or spacebar or arrow key at laptop and by tapping the display at mobile phone to make the bird and fly upward.
 3. Navigate the bird through the gaps between the green pipes.
