@@ -41,6 +41,8 @@ Hey there! I'm Ashraful Alam from Bangladesh, a passionate software developer. T
 7. When the bird collides the pipe or ground , then the game is over.
 
 ## Technologies Used
+<br> 
+
 - HTML5
 - CSS3
 - JavaScript
