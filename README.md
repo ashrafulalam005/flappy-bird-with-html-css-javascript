@@ -43,9 +43,9 @@ Hey there! I'm Ashraful Alam from Bangladesh, a passionate software developer. T
 ## Technologies Used
 <br> 
 
-- HTML5
-- CSS3
-- JavaScript
+- **HTML5**
+- **CSS3**
+- **JavaScript**
 
 # Screenshots
 
