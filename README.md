@@ -4,17 +4,22 @@
 
 <br> 
 
-## Overview
-<br> 
-Hey there! I'm Ashraful Alam from Chittagong, Bangladesh, a passionate software developer. This is a simple Flappy Bird game implemented using HTML, CSS, and JavaScript. Flappy Bird is a side-scrolling game where the player controls a bird, attempting to fly between columns of green pipes without hitting them. If it hits the pipe or ground then its game over.
+# Overview
+<br>
 
-## Credits
-<br> 
-    
-- **Ashraful Alam** - Software Developer
-- International Islamic University Chittagong (IIUC)
+Hey there! I'm **Ashraful Alam** from **Chittagong, Bangladesh**, a passionate software developer. This is a simple **Flappy Bird** game implemented using **HTML, CSS, and JavaScript. Flappy Bird** is a side-scrolling game where the player controls a bird, attempting to fly between columns of green pipes without hitting them. If it hits the pipe or ground then its game over. <br> <br> <br> 
 
-## Features
+# Credits
+<br> 
+
+# Ashraful Alam
+- **Studying B.Sc. in Computer Science and Engineering**
+- **Institution: International Islamic University Chittagong (IIUC)**
+- **Time : July, 2023 - Prestent**
+
+<br>
+
+# Features
 <br> 
 
 - Classic Flappy Bird gameplay.
@@ -30,8 +35,9 @@ Hey there! I'm Ashraful Alam from Chittagong, Bangladesh, a passionate software 
 - Game over detection when the bird collides with pipes or the ground.
 - Instantly new game by tapping.
 - Colorful visual elements.
+<br>
 
-## How to Play
+# How to Play
 <br> 
 
 1. Open the `index.html` file in your web browser.
@@ -41,13 +47,15 @@ Hey there! I'm Ashraful Alam from Chittagong, Bangladesh, a passionate software 
 5. Keep track of your score as you pass through each set of pipes.
 6. Continue playing until the bird collides.
 7. When the bird collides the pipe or ground , then the game is over.
+<br>
 
-## Technologies Used
+# Technologies Used
 <br> 
 
 - **HTML5**
 - **CSS3**
 - **JavaScript**
+<br>
 
 # Screenshots
 
