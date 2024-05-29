@@ -42,13 +42,14 @@
 # How to Play
 <br> 
 
-1. Open the `index.html` file in your web browser.
-2. Control the bird with mousepad or spacebar or arrow key at laptop and by tapping the display at mobile phone to make the bird and fly upward.
-3. Navigate the bird through the gaps between the green pipes.
-4. Avoid collisions with the pipes or the ground.
-5. Keep track of your score as you pass through each set of pipes.
-6. Continue playing until the bird collides.
-7. When the bird collides the pipe or ground , then the game is over.
+***1. Open the `index.html` file in your web browser.***  
+***2. Control the bird with mousepad or spacebar or arrow key at laptop and by tapping the display at mobile phone to make the bird and fly upward.***  
+***3. Navigate the bird through the gaps between the green pipes.***  
+***4. Avoid collisions with the pipes or the ground.***  
+***5. Keep track of your score as you pass through each set of pipes.***  
+***6. Continue playing until the bird collides.***  
+***7. When the bird collides the pipe or ground, then the game is over.***  
+
 <br>
 
 # Technologies Used
