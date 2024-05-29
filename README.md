@@ -23,19 +23,20 @@
 # Features
 <br> 
 
-- Classic Flappy Bird gameplay.
-- Responsive design for desktop and mobile devices.
-- Simple and intuitive user interface.
-- Control the bird with mousepad or spacebar or arrow key at laptop and by tapping the display at mobile phone.
-- Scoring system to track progress.
-- High score system to know the highest score.
-- There are three different sound effets.
-- When the bird fly upward there would be a wing flapping sound.
-- When the bird passes through a pipe there would be a different sound.
-- When the bird collides with pipe or ground there would be a different sound.
-- Game over detection when the bird collides with pipes or the ground.
-- Instantly new game by tapping.
-- Colorful visual elements.
+***- Classic Flappy Bird gameplay.***  
+***- Responsive design for desktop and mobile devices.***  
+***- Simple and intuitive user interface.***  
+***- Control the bird with mousepad or spacebar or arrow key at laptop and by tapping the display at mobile phone.***  
+***- Scoring system to track progress.***  
+***- High score system to know the highest score.***  
+***- There are three different sound effets.***  
+***- When the bird fly upward there would be a wing flapping sound.***  
+***- When the bird passes through a pipe there would be a different sound.***  
+***- When the bird collides with pipe or ground there would be a different sound.***  
+***- Game over detection when the bird collides with pipes or the ground.***  
+***- Instantly new game by tapping.***  
+***- Colorful visual elements.***  
+
 <br>
 
 # How to Play
