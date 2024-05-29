@@ -96,3 +96,5 @@ You can watch the video demonstration of the game** [here](https://youtu.be/tZYl
 
 ## Game Over
 ![Game Over](game_over.png)
+
+<br> <br> 
