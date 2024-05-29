@@ -14,9 +14,9 @@
 <br> 
 
 # Ashraful Alam
-- **Studying B.Sc. in Computer Science and Engineering**
-- **Institution: International Islamic University Chittagong (IIUC)**
-- **Time : July, 2023 - Prestent**
+***- Studying B.Sc. in Computer Science and Engineering***  
+***- Institution: International Islamic University Chittagong (IIUC)***  
+***- Time : July, 2023 - Present***  
 
 <br>
 
