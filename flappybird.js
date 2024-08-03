@@ -1,3 +1,4 @@
+
 let board;
 let boardWidth = 360;
 let boardHeight = 640;
@@ -170,3 +171,5 @@ function detectCollision(a, b) {
     a.y + a.height > b.y
   );
 }
+
+
