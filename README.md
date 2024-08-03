@@ -1,5 +1,4 @@
 
-
 <br> <br> <br> 
 
 # Flappy Bird Game with html, css and javascript
@@ -52,6 +51,7 @@
 ***5. Keep track of your score as you pass through each set of pipes.***  
 ***6. Continue playing until the bird collides.***  
 ***7. When the bird collides the pipe or ground, then the game is over.***  
+***8. Then tap the display or refresh the page to start new game.***
 
 <br>
 
