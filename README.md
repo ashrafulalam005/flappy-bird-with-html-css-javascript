@@ -36,6 +36,7 @@
 ***- When the bird passes through a pipe there would be a different sound.***  
 ***- When the bird collides with pipe or ground there would be a different sound.***  
 ***- Game over detection when the bird collides with pipes or the ground.***  
+***- If the page is refreshed, the game will be start again from the begining.***
 ***- Instantly new game by tapping.***  
 ***- Colorful visual elements.***  
 
