@@ -8,7 +8,7 @@
 # Overview
 <br>
 
-***Hey there! I'm Ashraful Alam from Chittagong, Bangladesh. I am a passionate software developer. This is a simple Flappy Bird game implemented using HTML, CSS, and JavaScript. Flappy Bird is a side-scrolling game where the player controls a bird, attempting to fly between columns of green pipes without hitting them. If it hits the pipe or ground then its game over.***
+***Hey there! I'm Ashraful Alam from Chittagong, Bangladesh. I am a passionate software developer. This is a simple Flappy Bird game implemented using HTML, CSS, and JavaScript. Flappy Bird is a side-scrolling game where the players controls a bird, attempting to fly between columns of green pipes without hitting them. If it hits the pipe or ground then its game over.***
  <br> <br> <br> 
 
 # Credits
