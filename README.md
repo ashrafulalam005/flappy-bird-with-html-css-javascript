@@ -1,17 +1,16 @@
-
 <br> <br> <br> 
 
 # Flappy Bird Game with html, css and javascript
 
 <br> 
 
-# Overview
+# Overview 🔍
 <br>
 
 ***Hey there! I'm Ashraful Alam from Chittagong, Bangladesh. I am a passionate software developer. This is a simple Flappy Bird game implemented using HTML, CSS, and JavaScript. Flappy Bird is a side-scrolling game where the players controls a bird, attempting to fly between columns of green pipes without hitting them. If it hits the pipe or ground then its game over.***
  <br> <br> <br> 
 
-# Credits
+# Credits 🙌
 <br> 
 
 # Ashraful Alam
@@ -21,7 +20,7 @@
 
 <br>
 
-# Features
+# Features ✨
 <br> 
 
 ***- Classic Flappy Bird gameplay.***  
@@ -41,7 +40,9 @@
 
 <br>
 
-# How to Play
+# Upcoming Features 🚀
+
+# How to Play 🎮
 <br> 
 
 ***1. Open the `index.html` file in your web browser.***  
@@ -55,13 +56,30 @@
 
 <br>
 
-# Technologies Used
+# Technologies Used 💻
 <br> 
 
 ***- HTML5***  
 ***- CSS3***  
 ***- JavaScript***  
 <br>
+
+# Installation and Setup 🛠️
+
+<br> 
+
+1. **Clone the repository to your local machine :**
+   ```bash
+   git clone https://github.com/ashrafulalam005/Age-calculator-with-html-css-javascript.git
+<br>
+
+# Or
+
+<br>
+
+2. **Visit the link to play online :**
+   https://ashrafulalam005.github.io/Age-calculator-with-html-css-javascript/
+<br> 
 
 # Screenshots
 
