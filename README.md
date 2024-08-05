@@ -82,7 +82,7 @@
    https://ashrafulalam005.github.io/Age-calculator-with-html-css-javascript/
 <br> 
 
-# Screenshots of gameplay
+# Screenshots of the gameplay 🖼️
 
 ## Before Starting
 ![Before Starting](before_starting.png)
