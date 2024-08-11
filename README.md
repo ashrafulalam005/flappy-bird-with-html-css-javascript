@@ -1,6 +1,6 @@
 <br> <br> <br> 
 
-# Flappy Bird Game with html, css and javascript
+# Flappy Bird Game with HTML, CSS, and JavaScript
 
 <br> 
 
